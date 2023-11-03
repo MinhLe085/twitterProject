@@ -4,7 +4,7 @@ export enum UserVerifyStatus {
   Banned // bị khóa
 }
 
-export enum TokenTypes {
+export enum TokenType {
   AccessToken,
   RefreshToken,
   ForgotPasswordToken,
